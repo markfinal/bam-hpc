@@ -1,2 +1,4 @@
 # bam-hpc
-BuildAMation High Performance Computing package repository
+[BuildAMation](https://github.com/markfinal/BuildAMation) High Performance Computing package repository
+
+Not yet supported
